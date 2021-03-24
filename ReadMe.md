@@ -1,4 +1,4 @@
-#Project Desctiption
+# Project Desctiption
 
 The task is to make a virtual repository of animal disease symptoms observed in different areas. 
 
